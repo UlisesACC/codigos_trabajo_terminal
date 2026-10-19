@@ -1,3 +1,7 @@
 archivos_no_subidos.txt
 subir_datos_por_bloques_corregido.py
 subir_datos_por_bloques.py
+
+# Resultados Parquet derivados (se generan localmente)
+/datos_globales/
+/errores_unificacion.txt
