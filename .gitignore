@@ -5,3 +5,6 @@ subir_datos_por_bloques.py
 # Resultados Parquet derivados (se generan localmente)
 /datos_globales/
 /errores_unificacion.txt
+
+extraer_metadatos_parquet.py
+metadatos_parquet.json
